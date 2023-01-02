@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\bin\Debug\net7.0\DZ9.3.exe
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\bin\Debug\net7.0\DZ9.3.deps.json
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\bin\Debug\net7.0\DZ9.3.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\bin\Debug\net7.0\DZ9.3.dll
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\bin\Debug\net7.0\DZ9.3.pdb
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.dll
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\refint\DZ9.3.dll
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.pdb
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\DZ9.3.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C# уроки\DZ9\DZ9.3\obj\Debug\net7.0\ref\DZ9.3.dll
